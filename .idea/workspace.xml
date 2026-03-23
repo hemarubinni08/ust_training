@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="5a228fbb-0c85-4c6d-aa79-c945bbad1167" name="Changes" comment="Commit via Intellij" />
-=======
-    <list default="true" id="5a228fbb-0c85-4c6d-aa79-c945bbad1167" name="Changes" comment="Commit via Intellij">
-      <change afterPath="$PROJECT_DIR$/branch1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shashi.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Shashi.docx" afterDir="false" />
-    </list>
->>>>>>> origin/skyline
+    <list default="true" id="5a228fbb-0c85-4c6d-aa79-c945bbad1167" name="Changes" comment="Merge remote-tracking branch 'origin/Avatar' into skyline&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,14 +19,11 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-<<<<<<< HEAD
-=======
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
->>>>>>> origin/skyline
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -48,11 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/hemarubinni08/ust_traning.git&quot;,
-<<<<<<< HEAD
-    &quot;accountId&quot;: &quot;1937050c-f455-4a2e-9763-791899082670&quot;
-=======
     &quot;accountId&quot;: &quot;45ffaeb6-08f4-48b7-b3b9-477328aa8cf1&quot;
->>>>>>> origin/skyline
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -68,11 +52,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-<<<<<<< HEAD
-    "git-widget-placeholder": "Avatar",
-=======
-    "git-widget-placeholder": "skyline",
->>>>>>> origin/skyline
+    "git-widget-placeholder": "Merging skyline",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Training/ust_traning"
   }
