@@ -1,2 +1,3 @@
 Hello Old Friend!
 King in the north
+git commit -a
