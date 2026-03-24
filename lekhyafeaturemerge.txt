@@ -1,4 +1,4 @@
 Date:24-03-2026
 This is the sample file.
 change the file or  modified.
-'''
+'''resolve the merge conflict'''
