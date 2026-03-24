@@ -1,3 +1,4 @@
 hello world
 Modified text
+
 This file is to resolve the conflict.
