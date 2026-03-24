@@ -5,4 +5,4 @@ Solving conflicts
 New file done
 <<<<
 >>>>
-
+Good morning trying to resolve a conflict
