@@ -1,11 +1,4 @@
 Date:24-03-2026
-fil
-new
-Solving conflicts
-New file done
-<<<<
->>>>
-Good morning trying to resolve a conflict
 This is the sample file.
 change the file or  modified.
 '''resolve the merge conflict'''
