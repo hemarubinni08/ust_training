@@ -4,4 +4,3 @@ this is  a file
 Modified text
 
 This file is to resolve the conflict.
-
