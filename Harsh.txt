@@ -1,1 +1,5 @@
-Features are added.
+<<<<<<< HEAD
+Hi my name is harsh Pratap singh.
+=======
+Good night
+>>>>>>> hlw rohit
